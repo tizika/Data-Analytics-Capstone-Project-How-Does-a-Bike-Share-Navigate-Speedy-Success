@@ -125,6 +125,11 @@ Based on the analysis, we highly recommend the following
 #### User Engagement:
 - Feedback Collection: Regularly collect feedback from both annual members and casual riders to refine bike services and address any issues.
 
+### Limitations
+
+- I have to clean all rows with null entries on all columns to make the data more reliable, but it has decreased the numbers of the sample to be used on the study.
+- There were still some outliers that can't be cleared.
+
 
 
 
